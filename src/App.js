@@ -60,7 +60,7 @@ const App = () => (
                 </AwesomeButton> 
               </a> 
               <div className="space"></div>
-              <a href="#">
+              <a href="https://docs.sonikchain.com">
                 <AwesomeButton
                   size="medium"
                   type="primary"
